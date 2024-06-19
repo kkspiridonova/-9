@@ -1,0 +1,3 @@
+﻿  9practhread.cpp
+C:\Users\User\source\repos\9practhread\9practhread.cpp(17,1): warning C4717: MergeSort::Sort: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  9practhread.vcxproj -> C:\Users\User\source\repos\9practhread\x64\Debug\9practhread.exe
